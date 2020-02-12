@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 0,
+    "Name": "John ",
+    "Surname": "Smith ",
+    "Email": "Smith@gmail.com",
+    "Phone": "(754) 301-0231",
+    "BirthDate": "1800-02-12T10:26:00"
+  },
+  {
+    "Id": 0,
+    "Name": "Joe",
+    "Surname": "Carlos",
+    "Email": "Carlos@gmail.com",
+    "Phone": "(341) 231-2312",
+    "BirthDate": "1800-02-12T10:26:00"
+  },
+  {
+    "Id": 0,
+    "Name": "David",
+    "Surname": "Jones ",
+    "Email": "Jones@yahoo.com",
+    "Phone": "(123) 123-1123",
+    "BirthDate": "1800-02-12T10:26:00"
+  }
+]
